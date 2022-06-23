@@ -1,0 +1,15 @@
+--ELIMINAR LAS TABLAS DEL ESQUEMA
+
+drop table grado_materia;
+
+drop table materia;
+
+drop table solicitud;
+
+drop table estudiante;
+
+drop table acudiente;
+
+drop table grado;
+
+drop table admin;
